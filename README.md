@@ -1,5 +1,5 @@
 
-# Snake and Ladder Game Website
+# Snakes and Ladders Game Website
 
 This is a Snake and Ladder Game website developed using Node.js, React.js, Express.js, and MongoDB. It provides a fully responsive and secure platform for users to play the game. Users can create an account, save their game progress, create new games, load saved games, and logout from the game. The website supports multiplayer functionality, allowing a maximum of 4 players to play together.
 
@@ -7,28 +7,28 @@ This is a Snake and Ladder Game website developed using Node.js, React.js, Expre
 
 
 
-https://github.com/Prashant0664/snake-and-ladder/assets/98750053/2ffed578-2341-42ee-b1ef-faf871a4d2a3
+https://github.com/Thapaswini2705/snake-and-ladder/assets/98750053/2ffed578-2341-42ee-b1ef-faf871a4d2a3
 
 
 
 ## Features
 
-✨ User Account Management: Users can create their accounts and log in to access the game. <br/>
-✨ Game Progress: Users can save their game and resume it at a later time. <br/>
-✨ Multiplayer: Up to 4 players can play the game together. <br/>
-✨ Responsive Design: The website is designed to provide a seamless experience across different devices and screen sizes. <br/>
-✨ Security: The website ensures secure authentication and data storage using encryption techniques. <br/>
-✨ MongoDB Integration: MongoDB is used to store user account details and game progress. <br/>
+1. User Account Management: Users can create their accounts and log in to access the game. <br/>
+2. Game Progress: Users can save their game and resume it at a later time. <br/>
+3. Multiplayer: Up to 4 players can play the game together. <br/>
+4. Responsive Design: The website is designed to provide a seamless experience across different devices and screen sizes. <br/>
+5. Security: The website ensures secure authentication and data storage using encryption techniques. <br/>
+6. MongoDB Integration: MongoDB is used to store user account details and game progress. <br/>
 
 ## Technologies Used
 
-✨ Node.js: A JavaScript runtime environment for server-side development. <br/>
-✨ React.js: A JavaScript library for building user interfaces. <br/>
-✨ Express.js: A minimal and flexible web application framework for Node.js. <br/>
-✨ MongoDB: A NoSQL database used for data storage. <br/>
-✨ HTML/CSS: Markup and styling for the website. <br/>
-✨ JavaScript: Programming language used for client-side and server-side scripting. <br/>
-✨ TailwindCSS:  CSS framework to provides a comprehensive set of pre-built classes.
+1. Node.js: A JavaScript runtime environment for server-side development. <br/>
+2. React.js: A JavaScript library for building user interfaces. <br/>
+3. Express.js: A minimal and flexible web application framework for Node.js. <br/>
+4. MongoDB: A NoSQL database used for data storage. <br/>
+5. HTML/CSS: Markup and styling for the website. <br/>
+6. JavaScript: Programming language used for client-side and server-side scripting. <br/>
+7. TailwindCSS:  CSS framework to provides a comprehensive set of pre-built classes.
 
 ## Installation and Setup
 
@@ -61,12 +61,12 @@ https://github.com/Prashant0664/snake-and-ladder/assets/98750053/2ffed578-2341-4
 
 ## Usage
 
-✨ Create a user account by registering on the website. <br/>
-✨ Log in to your account. <br/>
-✨ Start a new game or load a saved game. <br/>
-✨ Play the Snake and Ladder game with up to 4 players. <br/>
-✨ Save your game progress to resume it later. <br/>
-✨ Log out from the game when you are done <br/>
+1. Create a user account by registering on the website. <br/>
+2. Log in to your account. <br/>
+3. Start a new game or load a saved game. <br/>
+4. Play the Snake and Ladder game with up to 4 players. <br/>
+5. Save your game progress to resume it later. <br/>
+6. Log out from the game when you are done <br/>
 
 ## Contributing
 
@@ -75,8 +75,8 @@ Contributions to the project are welcome! If you find any bugs or want to add ne
 ## Contact
 For any inquiries or feedback, please contact:
 
-Prashant <br/>
-Email: `prashant201103@gmail.com`
+Venkata Thapaswini Thota <br/>
+Email: `thotavenkatathapaswini@gmail.com`
 
 ## Learn More
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
