@@ -6,7 +6,7 @@ This is a Snake and Ladder Game website developed using Node.js, React.js, Expre
 ## Demo
 
 
-game_demo.mp4 (file://THAPASWINI/Users/THAPASWINI/Downloads/game_demo.mp4)
+"C:\Users\THAPASWINI\Downloads\game_demo.mp4"
 
 
 
