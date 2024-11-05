@@ -7,7 +7,7 @@ This is a Snake and Ladder Game website developed using Node.js, React.js, Expre
 
 
 
-"C:\Users\THAPASWINI\Downloads\Recording 2024-11-05 015802.mp4"
+C:\Users\THAPASWINI\Downloads\Recording 2024-11-05 015802.mp4
 
 
 
